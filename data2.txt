@@ -1,0 +1,5 @@
+0.9972594,611,'jigsaw puzzle
+0.98932475,586,'half track
+0.78254807,58,'water snake
+0.76756054,403,'aircraft carrier
+0.7525759,978,'seashore
